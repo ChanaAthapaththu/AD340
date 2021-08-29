@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/athap/AndroidStudioProjects/AD340/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.28489583333333335" />
         <entry key="..\:/Users/athap/AndroidStudioProjects/AD340/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/athap/AndroidStudioProjects/AD340/app/src/main/res/layout/iteam_daily_forecast.xml" value="0.26875" />
       </map>
     </option>
   </component>
